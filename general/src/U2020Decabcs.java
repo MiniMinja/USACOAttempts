@@ -20,6 +20,8 @@ public class U2020Decabcs {
 		for(int i = 0;i<7;i++) {
 			data[i] = in.nextInt();
 		}
+		
+		output = new StringBuilder();
 	}
 	
 	public static void solve() {
@@ -27,6 +29,10 @@ public class U2020Decabcs {
 		int a = data[0];
 		int b = data[1];
 		int c = data[data.length - 1] - a - b;
+		
+		output.append(a).append(" ");
+		output.append(b).append(" ");
+		output.append(c);
 	}
 	
 	public static void output() {
