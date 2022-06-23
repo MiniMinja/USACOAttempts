@@ -8,7 +8,7 @@ public class CF1555BTwoTables {
 	static int W, H;
 	static int x1, y1, x2, y2;
 	static int w1, h1;
-	static int w2, h2;
+	static int w, h;
 	
 	static double output;
 	
@@ -30,37 +30,33 @@ public class CF1555BTwoTables {
 		y1 = in.nextInt();
 		x2 = in.nextInt();
 		y2 = in.nextInt();
-		w1 = x2 - x1;
-		h1 = y2 - y1;
-		w2 = in.nextInt();
-		h2 = in.nextInt();
+		w = in.nextInt();
+		h = in.nextInt();
 		
 	}
 	
 	public static void solve() {
 		
-		/*
 		Rect room = new Rect(W, H);
 		Rect t1 = new Rect(x2-x1, y2-y1);
 		Rect t2 = new Rect(w, h);
-		*/
 		
-		if(w1 + w2 > W && h1 + h2 > H) {
+		if(t1.w + t2.w > room.w && t1.h + t2.h > room.h) {
 			output = -1;
 			return;
 		}
 		
 		int min = Integer.MAX_VALUE;
 		
-		if(w1 + w2 <= W) {
+		if(t1.w + t2.w <= W) {
 			int leftgap = x1;
 			int rightgap = W - x2;
-			min = Math.min(w2-leftgap, w2-rightgap);
+			min = Math.min(t2.w-leftgap, t2.w-rightgap);
 		}
 		
-		if(h1 + h2 <= H) {
-			min = Math.min(min, h2 - y1);
-			min = Math.min(min, h2 - (H - y2));
+		if(t1.h + t2.h <= H) {
+			min = Math.min(min, t2.h - y1);
+			min = Math.min(min, t2.h - (H - y2));
 		}
 		
 		if(min < 0) output = 0;
