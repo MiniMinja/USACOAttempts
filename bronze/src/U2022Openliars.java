@@ -23,7 +23,7 @@ public class U2022Openliars {
 
 		for(int i = 0;i<N;i++){
 			LG[i] = in.next().charAt(0);
-			loc = in.nextInt();
+			loc[i] = in.nextInt();
 		}
 
 		minLiars = Integer.MAX_VALUE;
@@ -43,7 +43,7 @@ public class U2022Openliars {
 
 		//check each markpoint
 		for(int markpoint: markPoints){
-			int liars = search(markpoints);
+			int liars = search(markpoint);
 			if(minLiars > liars){
 				minLiars = liars;
 			}
@@ -51,7 +51,7 @@ public class U2022Openliars {
 	}
 	
 	public static void output() {
-		System.out.println(liars);
+		System.out.println(minLiars);
 	}
 
 	public static int search(int markpoint){
@@ -59,7 +59,7 @@ public class U2022Openliars {
 		int liars = 0;
 		for(int i = 0;i<N;i++){
 			if(LG[i] == 'G'){
-				if(markpoint <= loc[i]) liars++
+				if(markpoint <= loc[i]) liars++;
 			}
 			else{
 				if(markpoint >= loc[i]) liars++;
