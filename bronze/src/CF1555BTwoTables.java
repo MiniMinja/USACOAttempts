@@ -41,6 +41,7 @@ public class CF1555BTwoTables {
 		Rect t1 = new Rect(x2-x1, y2-y1);
 		Rect t2 = new Rect(w, h);
 		
+		//eliminate the case of being unable to move 
 		if(t1.w + t2.w > room.w && t1.h + t2.h > room.h) {
 			output = -1;
 			return;
@@ -48,12 +49,20 @@ public class CF1555BTwoTables {
 		
 		int min = Integer.MAX_VALUE;
 		
-		if(t1.w + t2.w <= W) {
+		//determine the smallest horizontal movement
+		if(t1.w + t2.w <= room.w) {
+			/*
 			int leftgap = x1;
 			int rightgap = W - x2;
 			min = Math.min(t2.w-leftgap, t2.w-rightgap);
+			*/
+			
+			int leftintersect = intersect(0, t2.w, x1, x2);
+			int rightintersect = intersect(room.w-t2.w, room.w, x1, x2);
+			min = Math.min(leftintersect, rightintersect);
 		}
 		
+		//smallest vertical movement
 		if(t1.h + t2.h <= H) {
 			min = Math.min(min, t2.h - y1);
 			min = Math.min(min, t2.h - (H - y2));
