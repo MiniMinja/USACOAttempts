@@ -27,10 +27,34 @@ public class U2022Opensleeping {
 	
 	public static void solve() {
 		for(int i = 0;i<T;i++) {
-			//find minVal that a ClassData could be
+			int min = -1;
+			for(int j:cds[i].a) {
+				if(j > min) {
+					min = j;
+				}
+			}
 			
-			//search through the ClassData with the minVal
-			output[i] = search(cds[i], minVal);
+			int lwv = 100_001;
+			for(int j = min;j<=100_000;j++) {
+				if(search(cds[i], j)) {
+					lwv = j;
+					break;
+				}
+			}
+			
+			//find the number of changes it takes to meet this value
+			int changes = 0;
+			int groupSum = 0;
+			for(int j = 0;j<cds[i].N;j++) {
+				if(cds[i].a[j] + groupSum == lwv) {
+					groupSum = 0;
+				}
+				else {
+					groupSum += cds[i].a[j];
+					changes++;
+				}
+			}
+			output[i] = changes;
 		}
 	}
 	
@@ -39,11 +63,23 @@ public class U2022Opensleeping {
 		for(int i = 0;i<T;i++) {
 			sb.append(output[i]).append("\n");
 		}
-		System.out.println(sb.toString());
+		System.out.println(sb.toString().substring(0, sb.length() - 1));
 	}
 	
-	public static int search(ClassData cd, int minVal) {
-		
+	public static boolean search(ClassData cd, int checkVal) {
+		int groupSum = 0;
+		for(int i = 0;i<cd.N;i++) {
+			if(cd.a[i] + groupSum > checkVal) {
+				return false;
+			}
+			else if(cd.a[i] + groupSum == checkVal) {
+				groupSum = 0;
+			}
+			else {
+				groupSum += cd.a[i];
+			}
+		}
+		return groupSum == 0;
 	}
 }
 
