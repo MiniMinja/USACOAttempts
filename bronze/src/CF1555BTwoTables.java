@@ -64,8 +64,13 @@ public class CF1555BTwoTables {
 		
 		//smallest vertical movement
 		if(t1.h + t2.h <= H) {
+			/*
 			min = Math.min(min, t2.h - y1);
 			min = Math.min(min, t2.h - (H - y2));
+			*/
+
+			min = Math.min(min, intersect(0, t2.h, y1, y2));
+			min = Math.min(min, intersect(room.h - t2.h, room.h, y1, y2));
 		}
 		
 		if(min < 0) output = 0;
