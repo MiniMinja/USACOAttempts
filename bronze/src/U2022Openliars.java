@@ -31,15 +31,12 @@ public class U2022Openliars {
 	
 	public static void solve() {
 		//generate markpoints to search for
-		int[] markPoints = new int[N];
-		for(int i = 0;i<N;i++){
-			int offset = 1;
-			if(LG[i] == 'L'){
-				offset = -1;
-			}
-
-			markPoints[i] = loc[i] + offset;
+		int[] markPoints = new int[N + 2];
+		markPoints[0] = 0;
+		for(int i = 1;i<=N;i++){
+			markPoints[i] = loc[i-1];
 		}
+		markPoints[N+1] = 1_000_000_000;
 
 		//check each markpoint
 		for(int markpoint: markPoints){
@@ -59,10 +56,10 @@ public class U2022Openliars {
 		int liars = 0;
 		for(int i = 0;i<N;i++){
 			if(LG[i] == 'G'){
-				if(markpoint <= loc[i]) liars++;
+				if(markpoint < loc[i]) liars++;
 			}
 			else{
-				if(markpoint >= loc[i]) liars++;
+				if(markpoint > loc[i]) liars++;
 			}
 		}
 		return liars;
