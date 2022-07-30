@@ -1,0 +1,819 @@
+Error on case: 49
+89 54
+38 28 44 40
+69 39
+Gap gives: 11.0
+Intersect gives: 6.0
+
+Error on case: 54
+63 52
+25 29 35 32
+53 44
+Gap gives: 15.0
+Intersect gives: 3.0
+
+Error on case: 65
+64 65
+5 20 38 27
+38 57
+Gap gives: 19.0
+Intersect gives: 7.0
+
+Error on case: 71
+72 82
+15 51 28 52
+59 81
+Gap gives: 15.0
+Intersect gives: 1.0
+
+Error on case: 105
+93 56
+41 22 46 56
+71 47
+Gap gives: 24.0
+Intersect gives: 5.0
+
+Error on case: 108
+68 62
+33 28 64 35
+63 38
+Gap gives: 10.0
+Intersect gives: 7.0
+
+Error on case: 131
+91 58
+35 23 74 24
+56 46
+Gap gives: 12.0
+Intersect gives: 1.0
+
+Error on case: 133
+71 58
+38 17 43 46
+65 41
+Gap gives: 27.0
+Intersect gives: 5.0
+
+Error on case: 145
+93 81
+87 52 88 76
+90 65
+Gap gives: 3.0
+Intersect gives: 1.0
+
+Error on case: 159
+91 55
+70 21 76 42
+85 41
+Gap gives: 15.0
+Intersect gives: 6.0
+
+Error on case: 184
+51 68
+29 62 30 66
+48 65
+Gap gives: 19.0
+Intersect gives: 1.0
+
+Error on case: 191
+51 64
+43 42 46 57
+47 55
+Gap gives: 4.0
+Intersect gives: 3.0
+
+Error on case: 251
+58 51
+32 34 49 37
+55 38
+Gap gives: 4.0
+Intersect gives: 3.0
+
+Error on case: 263
+82 65
+36 57 37 63
+47 65
+Gap gives: 2.0
+Intersect gives: 1.0
+
+Error on case: 354
+76 58
+4 19 52 22
+68 49
+Gap gives: 13.0
+Intersect gives: 3.0
+
+Error on case: 368
+95 61
+79 21 80 53
+89 54
+Gap gives: 10.0
+Intersect gives: 1.0
+
+Error on case: 372
+55 77
+36 37 37 49
+44 68
+Gap gives: 8.0
+Intersect gives: 1.0
+
+Error on case: 401
+50 95
+20 36 40 53
+36 63
+Gap gives: 21.0
+Intersect gives: 17.0
+
+Error on case: 413
+68 88
+26 37 56 45
+42 54
+Gap gives: 11.0
+Intersect gives: 8.0
+
+Error on case: 414
+64 92
+2 30 61 42
+40 77
+Gap gives: 27.0
+Intersect gives: 12.0
+
+Error on case: 444
+85 79
+30 25 32 56
+60 38
+Gap gives: 7.0
+Intersect gives: 2.0
+
+Error on case: 513
+71 58
+27 24 39 34
+68 35
+Gap gives: 11.0
+Intersect gives: 10.0
+
+Error on case: 535
+80 73
+34 51 68 58
+58 63
+Gap gives: 12.0
+Intersect gives: 7.0
+
+Error on case: 565
+97 78
+13 44 51 46
+76 54
+Gap gives: 10.0
+Intersect gives: 2.0
+
+Error on case: 586
+50 62
+5 23 25 24
+33 58
+Gap gives: 20.0
+Intersect gives: 1.0
+
+Error on case: 605
+90 90
+13 28 50 43
+77 66
+Gap gives: 19.0
+Intersect gives: 15.0
+
+Error on case: 660
+78 64
+45 30 65 40
+61 47
+Gap gives: 17.0
+Intersect gives: 10.0
+
+Error on case: 667
+57 90
+28 55 31 86
+41 70
+Gap gives: 13.0
+Intersect gives: 3.0
+
+Error on case: 675
+65 71
+26 31 28 50
+43 55
+Gap gives: 6.0
+Intersect gives: 2.0
+
+Error on case: 683
+99 64
+17 31 84 40
+92 44
+Gap gives: 13.0
+Intersect gives: 9.0
+
+Error on case: 688
+63 84
+0 32 43 37
+25 73
+Gap gives: 26.0
+Intersect gives: 5.0
+
+Error on case: 780
+100 53
+52 1 71 49
+76 38
+Gap gives: 24.0
+Intersect gives: 19.0
+
+Error on case: 785
+63 66
+29 20 37 34
+50 61
+Gap gives: 21.0
+Intersect gives: 8.0
+
+Error on case: 798
+61 83
+30 37 48 53
+59 59
+Gap gives: 22.0
+Intersect gives: 16.0
+
+Error on case: 805
+55 77
+19 20 28 73
+45 41
+Gap gives: 18.0
+Intersect gives: 9.0
+
+Error on case: 806
+65 59
+20 25 49 26
+23 57
+Gap gives: 3.0
+Intersect gives: 1.0
+
+Error on case: 817
+64 69
+30 19 33 55
+37 38
+Gap gives: 6.0
+Intersect gives: 3.0
+
+Error on case: 847
+85 73
+55 32 76 36
+79 53
+Gap gives: 16.0
+Intersect gives: 4.0
+
+Error on case: 879
+78 97
+4 68 72 69
+55 96
+Gap gives: 28.0
+Intersect gives: 1.0
+
+Error on case: 892
+79 63
+42 30 54 37
+63 57
+Gap gives: 21.0
+Intersect gives: 12.0
+
+Error on case: 894
+73 93
+39 79 44 84
+72 85
+Gap gives: 6.0
+Intersect gives: 5.0
+
+Error on case: 903
+75 55
+38 41 49 54
+50 48
+Gap gives: 12.0
+Intersect gives: 11.0
+
+Error on case: 916
+90 50
+55 22 83 28
+68 31
+Gap gives: 9.0
+Intersect gives: 6.0
+
+Error on case: 1032
+65 93
+37 77 42 92
+46 89
+Gap gives: 9.0
+Intersect gives: 5.0
+
+Error on case: 1035
+70 89
+38 54 58 66
+67 67
+Gap gives: 13.0
+Intersect gives: 12.0
+
+Error on case: 1066
+95 79
+23 24 50 36
+59 66
+Gap gives: 14.0
+Intersect gives: 12.0
+
+Error on case: 1113
+69 92
+56 29 57 69
+58 50
+Gap gives: 2.0
+Intersect gives: 1.0
+
+Error on case: 1116
+74 97
+33 54 59 59
+67 84
+Gap gives: 30.0
+Intersect gives: 5.0
+
+Error on case: 1188
+91 79
+68 21 71 43
+87 78
+Gap gives: 19.0
+Intersect gives: 3.0
+
+Error on case: 1252
+88 99
+73 23 77 80
+80 42
+Gap gives: 7.0
+Intersect gives: 4.0
+
+Error on case: 1256
+61 94
+48 39 52 52
+58 77
+Gap gives: 35.0
+Intersect gives: 13.0
+
+Error on case: 1272
+100 80
+38 24 90 30
+49 58
+Gap gives: 8.0
+Intersect gives: 6.0
+
+Error on case: 1327
+86 65
+40 31 76 44
+54 47
+Gap gives: 16.0
+Intersect gives: 13.0
+
+Error on case: 1328
+96 87
+75 19 77 45
+94 82
+Gap gives: 19.0
+Intersect gives: 2.0
+
+Error on case: 1381
+55 96
+34 43 36 73
+45 80
+Gap gives: 11.0
+Intersect gives: 2.0
+
+Error on case: 1387
+55 91
+8 14 13 37
+49 81
+Gap gives: 7.0
+Intersect gives: 5.0
+
+Error on case: 1445
+82 92
+34 41 35 87
+52 64
+Gap gives: 5.0
+Intersect gives: 1.0
+
+Error on case: 1456
+56 65
+36 43 50 44
+47 57
+Gap gives: 14.0
+Intersect gives: 1.0
+
+Error on case: 1470
+65 68
+4 32 51 44
+57 52
+Gap gives: 20.0
+Intersect gives: 12.0
+
+Error on case: 1504
+89 90
+38 36 42 86
+66 89
+Gap gives: 19.0
+Intersect gives: 4.0
+
+Error on case: 1578
+90 100
+67 53 74 87
+81 79
+Gap gives: 14.0
+Intersect gives: 7.0
+
+Error on case: 1580
+67 83
+26 60 51 67
+59 74
+Gap gives: 14.0
+Intersect gives: 7.0
+
+Error on case: 1618
+61 55
+29 46 30 54
+37 50
+Gap gives: 6.0
+Intersect gives: 1.0
+
+Error on case: 1630
+68 53
+65 16 66 40
+67 20
+Gap gives: 2.0
+Intersect gives: 1.0
+
+Error on case: 1636
+85 64
+71 49 84 55
+77 56
+Gap gives: 7.0
+Intersect gives: 6.0
+
+Error on case: 1666
+52 79
+20 29 32 72
+36 37
+Gap gives: 16.0
+Intersect gives: 12.0
+
+Error on case: 1687
+57 67
+20 57 32 58
+45 65
+Gap gives: 8.0
+Intersect gives: 1.0
+
+Error on case: 1752
+88 94
+2 48 61 67
+70 71
+Gap gives: 23.0
+Intersect gives: 19.0
+
+Error on case: 1772
+72 79
+26 58 31 77
+51 64
+Gap gives: 10.0
+Intersect gives: 5.0
+
+Error on case: 1797
+61 95
+38 32 47 81
+52 85
+Gap gives: 14.0
+Intersect gives: 9.0
+
+Error on case: 1802
+53 55
+31 30 37 40
+46 49
+Gap gives: 15.0
+Intersect gives: 6.0
+
+Error on case: 1824
+50 61
+1 10 50 14
+11 55
+Gap gives: 8.0
+Intersect gives: 4.0
+
+Error on case: 1852
+73 91
+37 6 51 75
+53 38
+Gap gives: 16.0
+Intersect gives: 14.0
+
+Error on case: 1853
+85 66
+44 47 50 57
+66 62
+Gap gives: 22.0
+Intersect gives: 6.0
+
+Error on case: 1933
+57 50
+40 7 44 10
+55 45
+Gap gives: 5.0
+Intersect gives: 3.0
+
+Error on case: 1952
+80 52
+32 22 39 52
+66 35
+Gap gives: 25.0
+Intersect gives: 7.0
+
+Error on case: 2083
+95 89
+25 55 56 59
+68 84
+Gap gives: 29.0
+Intersect gives: 4.0
+
+Error on case: 2103
+89 94
+38 49 56 53
+51 87
+Gap gives: 13.0
+Intersect gives: 4.0
+
+Error on case: 2109
+95 73
+59 39 63 42
+68 59
+Gap gives: 9.0
+Intersect gives: 3.0
+
+Error on case: 2112
+71 57
+3 54 71 55
+14 56
+Gap gives: 2.0
+Intersect gives: 1.0
+
+Error on case: 2120
+73 54
+21 16 28 31
+71 39
+Gap gives: 16.0
+Intersect gives: 15.0
+
+Error on case: 2181
+78 90
+35 64 37 74
+55 85
+Gap gives: 14.0
+Intersect gives: 2.0
+
+Error on case: 2221
+93 97
+63 36 69 94
+80 93
+Gap gives: 17.0
+Intersect gives: 6.0
+
+Error on case: 2314
+59 71
+38 22 39 57
+51 28
+Gap gives: 6.0
+Intersect gives: 1.0
+
+Error on case: 2324
+88 83
+27 61 58 65
+63 73
+Gap gives: 12.0
+Intersect gives: 4.0
+
+Error on case: 2391
+76 94
+55 6 61 92
+63 79
+Gap gives: 8.0
+Intersect gives: 6.0
+
+Error on case: 2394
+79 52
+9 26 51 31
+59 46
+Gap gives: 20.0
+Intersect gives: 5.0
+
+Error on case: 2418
+92 92
+53 77 68 78
+83 88
+Gap gives: 11.0
+Intersect gives: 1.0
+
+Error on case: 2521
+56 85
+35 63 46 70
+43 75
+Gap gives: 8.0
+Intersect gives: 7.0
+
+Error on case: 2562
+77 84
+58 43 61 49
+69 76
+Gap gives: 11.0
+Intersect gives: 3.0
+
+Error on case: 2565
+70 71
+30 47 32 57
+60 55
+Gap gives: 8.0
+Intersect gives: 2.0
+
+Error on case: 2584
+77 95
+23 0 31 68
+57 37
+Gap gives: 11.0
+Intersect gives: 8.0
+
+Error on case: 2594
+92 67
+40 45 41 54
+59 52
+Gap gives: 7.0
+Intersect gives: 1.0
+
+Error on case: 2603
+94 75
+7 59 29 63
+92 66
+Gap gives: 7.0
+Intersect gives: 4.0
+
+Error on case: 2646
+61 65
+25 32 27 54
+45 51
+Gap gives: 11.0
+Intersect gives: 2.0
+
+Error on case: 2668
+90 89
+43 55 54 61
+57 85
+Gap gives: 14.0
+Intersect gives: 11.0
+
+Error on case: 2684
+52 98
+19 12 21 98
+40 30
+Gap gives: 9.0
+Intersect gives: 2.0
+
+Error on case: 2692
+57 76
+6 21 9 50
+52 55
+Gap gives: 4.0
+Intersect gives: 3.0
+
+Error on case: 2710
+80 98
+40 60 42 61
+74 88
+Gap gives: 28.0
+Intersect gives: 1.0
+
+Error on case: 2753
+95 65
+47 22 51 34
+81 56
+Gap gives: 34.0
+Intersect gives: 4.0
+
+Error on case: 2755
+60 58
+27 31 29 44
+42 46
+Gap gives: 11.0
+Intersect gives: 2.0
+
+Error on case: 2768
+86 87
+50 10 54 38
+75 81
+Gap gives: 25.0
+Intersect gives: 4.0
+
+Error on case: 2772
+83 52
+36 38 62 43
+60 47
+Gap gives: 9.0
+Intersect gives: 5.0
+
+Error on case: 2773
+98 82
+23 14 98 15
+40 70
+Gap gives: 3.0
+Intersect gives: 1.0
+
+Error on case: 2797
+78 85
+35 11 47 74
+64 75
+Gap gives: 29.0
+Intersect gives: 12.0
+
+Error on case: 2810
+62 96
+23 25 40 80
+43 80
+Gap gives: 20.0
+Intersect gives: 17.0
+
+Error on case: 2900
+80 66
+16 12 21 41
+69 39
+Gap gives: 10.0
+Intersect gives: 5.0
+
+Error on case: 2946
+93 79
+61 47 81 50
+73 54
+Gap gives: 7.0
+Intersect gives: 3.0
+
+Error on case: 2957
+57 53
+29 30 36 32
+50 47
+Gap gives: 17.0
+Intersect gives: 2.0
+
+Error on case: 2979
+60 99
+14 49 33 64
+47 83
+Gap gives: 34.0
+Intersect gives: 15.0
+
+Error on case: 3018
+96 54
+62 49 78 50
+80 53
+Gap gives: 4.0
+Intersect gives: 1.0
+
+Error on case: 3045
+54 69
+48 22 49 63
+50 43
+Gap gives: 2.0
+Intersect gives: 1.0
+
+Error on case: 3095
+96 74
+68 11 78 13
+78 70
+Gap gives: 9.0
+Intersect gives: 2.0
+
+Error on case: 3120
+96 74
+58 56 74 63
+79 68
+Gap gives: 21.0
+Intersect gives: 16.0
+
+Error on case: 3134
+63 91
+37 76 45 88
+55 85
+Gap gives: 18.0
+Intersect gives: 8.0
+
+Error on case: 3138
+54 84
+38 12 44 84
+46 37
+Gap gives: 8.0
+Intersect gives: 6.0
+
+Error on case: 3153
+99 58
+36 26 45 28
+87 54
+Gap gives: 24.0
+Intersect gives: 2.0
+
